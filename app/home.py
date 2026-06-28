@@ -27,13 +27,13 @@ col1, col2 = st.columns(2)
 with col1:
     st.info("""
     **Datos del Grupo**
-    - **Integrantes:** [Tu Nombre / Santiago] y [Nombre de tu Compañero]
-    - **Comisión:** [Tu Comisión]
-    - **Fecha:** Julio 2026
+    - **Integrantes:** Santiago Gallardo
+    - **Tecnicatura:** Ciencia de Datos e IA
+    - **Fecha de publicación:** Julio 2026
     """)
 
 with col2:
     st.success("""
     **Repositorio Oficial**
-    - 🔗 [Ver código fuente en GitHub (Completar Enlace)](#)
+    - https://github.com/SantiagoIgnacioGallardo/ProyectoIntegrador_MD_1
     """)
