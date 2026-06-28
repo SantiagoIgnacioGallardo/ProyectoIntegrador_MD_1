@@ -3,8 +3,8 @@
 ### Información General
 - **Integrantes:** Santiago Gallardo y Compañero
 - **Materia:** Minería de Datos I
-- **Aplicación Web:** [Ver en Streamlit Cloud](#) (Completar enlace al desplegar)
-- **Informe Final:** [Ver Informe en PDF](reports/informe_final.pdf)
+- **Aplicación Web:** [[Ver en Streamlit Cloud](#) (Completar enlace al desplegar)](https://proyectointegradormd1-santi.streamlit.app/)
+- **Informe Final:** no existe :p
 
 ### Objetivo del Proyecto
 El propósito de este proyecto es analizar los patrones de consumo de los clientes de una plataforma de streaming, investigando si el tipo de plan de suscripción afecta el nivel de "engagement" (minutos visualizados) y el volumen de problemas técnicos reportados. Se busca realizar un análisis reproducible que vaya desde la limpieza de datos hasta el escalamiento y reducción dimensional, demostrando la capacidad de separar evidencia empírica de interpretaciones de negocio.
