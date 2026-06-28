@@ -13,7 +13,7 @@ st.markdown("---")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('../data/processed/streaming_users_clean.csv')
+    return pd.read_csv('data/processed/streaming_users_clean.csv')
 
 try:
     df = load_data()
