@@ -1,0 +1,7 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+1,Preparación,8160,753,100.0
+2,Eliminación de Duplicados,8034,753,98.46
+3,Normalización,8034,1879,98.46
+4,Tratamiento de Outliers,8034,2129,98.46
+5,Parseo de fechas,8034,2578,98.46
+6,Imputación de valores nulos,7265,22,89.03
